@@ -31,6 +31,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-377EB8?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-007ACC?style=flat&logo=seaborn&logoColor=white)
 
 
 
