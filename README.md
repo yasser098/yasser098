@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/yasseralian/" target="_blank"><img src="https://img.shields.io/badge/-Yasser%20Alian-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/yasserelean" target="_blank"><img src="https://img.shields.io/badge/-Yasser%20Alian-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![Excel](https://img.shields.io/badge/-excel-05122A?style=flat&logo=excel)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
